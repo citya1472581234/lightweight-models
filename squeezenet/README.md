@@ -4,7 +4,7 @@ Pytorch implementation of Squeezenet model as described in https://arxiv.org/abs
 
 *  learning curve
 
-![](https://github.com/citya1472581234/squeezenet/blob/master/Squeezenet_loss.jpg?raw=true)
+![](https://github.com/citya1472581234/lightweight-models/blob/master/squeezenet/Squeezenet_loss.jpg?raw=true)
 
 *  accuracy
 
