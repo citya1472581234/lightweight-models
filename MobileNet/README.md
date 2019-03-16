@@ -6,10 +6,9 @@
 * error rate
 
 
-  ![](https://github.com/citya1472581234/MobileNet/blob/master/error.png?raw=true)
+  ![](https://github.com/citya1472581234/lightweight-models/blob/master/MobileNet/error.png?raw=true)
 * learning curve
 
-
-  ![](https://github.com/citya1472581234/MobileNet/blob/master/loss.png?raw=true)
+  ![](https://github.com/citya1472581234/lightweight-models/blob/master/MobileNet/loss.png?raw=true)
 
 
